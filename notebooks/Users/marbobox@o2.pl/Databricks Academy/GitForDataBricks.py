@@ -6,7 +6,6 @@ spark = SparkSession.builder.appName('SparkByExamples.com').getOrCreate()
 simpleData = [("James",34),("Ann",34),
     ("Michael",33),("Scott",53),
     ("Robert",37),("Chad",27),
-    ("Bogdan",37),	("Marek",37)
 ]
 
 
